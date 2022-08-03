@@ -10,7 +10,22 @@ void readFile(void);
 
 int main(void)
 {
-  readFile();
+  // readFile();
+
+  int unsortedNumbers[5] = {34, 3, 6, 23, 4};
+  size_t unsortedNumbersSize = sizeof(unsortedNumbers) / sizeof(unsortedNumbers[0]);
+  int target = 2;
+  char found = 0;
+
+  for (int i = 0; i < unsortedNumbersSize; i++)
+  {
+    if (unsortedNumbers[i] == target)
+    {
+      found = 1;
+    }
+  }
+
+  printf("%d\n", found);
 
   return 0;
 }
