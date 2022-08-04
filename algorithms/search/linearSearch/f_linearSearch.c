@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <string.h>
+#include <time.h>
 
 // Maybe one day I handle this with dynamic memory
 #define MAX_LINES_AMOUNT 5
@@ -11,11 +12,14 @@ void readFile(void);
 int main(void)
 {
   // readFile();
+  double timeSpent = 0.0;
 
   int unsortedNumbers[5] = {34, 3, 6, 23, 4};
   size_t unsortedNumbersSize = sizeof(unsortedNumbers) / sizeof(unsortedNumbers[0]);
   int target = 2;
   char found = 0;
+
+  clock_t begin = clock();
 
   for (int i = 0; i < unsortedNumbersSize; i++)
   {
@@ -25,7 +29,11 @@ int main(void)
     }
   }
 
+  clock_t end = clock();
+  timeSpent += (double)(end - begin) / CLOCKS_PER_SEC;
+
   printf("%d\n", found);
+  printf("Elapsed time: %f\n", timeSpent);
 
   return 0;
 }
