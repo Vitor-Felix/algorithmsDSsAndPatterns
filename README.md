@@ -9,25 +9,31 @@
 For fun I choose to implements with four languages that i liked to work with.
 
 <picture>
-       <img alt="language C logo" height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />     
+       <img alt="C language logo" height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />     
 </picture>
 
   * for having a language to work with more low-level concepts.
 
 <picture>
-       <img alt="language Java logo" height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />     
+       <img alt="Java language logo" height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />     
 </picture>
 
   * for having a strong OOP approach, mainly for the Design Patterns.
 
 <picture>
-       <img alt="language JavaScript logo" height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />     
+       <img alt="Kotlin language logo" height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />     
+</picture>
+
+  * because I started to work with it, and I'm loving it.
+
+<picture>
+       <img alt="JavaScript language logo" height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />     
 </picture>
 
   * for being the more dynamic (and volatile) language that I know.
 
 <picture>
-       <img alt="language Python logo" height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />     
+       <img alt="Python language logo" height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />     
 </picture>
 
   * for the pseudocodish way of writing at its shallow level, but also having cool facilitators when you know more about the language.
