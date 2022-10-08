@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="f_linearSearch">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/algorithms/search/linearSearch/f_linearSearch.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
