@@ -42,3 +42,4 @@ Probably I'm gonna make some problem resolutions, but I'm already doing this in 
 
 - [FreeCodeCamp Profile](https://www.freecodecamp.org/vitorfelix)
 - [Hackerhank Profile](https://www.hackerrank.com/vytorfelix1)
+- [Linkedin](https://www.linkedin.com/in/felix-vitor)
